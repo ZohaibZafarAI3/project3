@@ -1,0 +1,9 @@
+Employee Benefits Package
+
+Health Insurance: Company covers 80% of health insurance premium. Coverage starts after 30 days of employment.
+
+Dental Insurance: Optional dental coverage available for $15 per month.
+
+401k Matching: Company matches 50% of employee contributions up to 6% of salary. Eligibility after 6 months.
+
+Wellness Benefit: $500 annual reimbursement for gym membership or fitness classes.
